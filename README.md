@@ -1,3 +1,15 @@
-# An React App
-  This app will fetch an api and serves you all the latest news category wise,
-  You can also checkout full news by clicking on the button which is provided in every news.
+# my-latest-news
+A simple application that fetches the API and servwes you all the latest news category wise along with the pagination
+
+``` This API don't allows the production ```
+
+Run following command to install all the dependencies
+```ruby
+npm i
+```
+
+Run the app by executing following command as simple react app
+```ruby
+npm start
+```
+
